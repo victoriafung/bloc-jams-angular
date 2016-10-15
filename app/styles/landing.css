@@ -36,6 +36,7 @@
      padding: 2rem;
      text-align: center;
 	 opacity: 1;
+/*
      -webkit-transform: scaleX(0.5) rotate(70deg);
      -moz-transform: scaleX(0.5) rotate(70deg);
      transform: scaleX(0.5) rotate(70deg);
@@ -45,6 +46,7 @@
      -webkit-transition-delay: 0.2s;
      -moz-transition-delay: 0.2s;
      transition-delay: 0.2s;
+*/
 	 
  }
  
